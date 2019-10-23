@@ -1,0 +1,20 @@
+[agenda register]2019/10/21 20:38:00 Register s successfully!
+[agenda register]2019/10/21 20:39:20 Register zz successfully!
+[agenda login]2019/10/21 21:35:13 Login zz successfully!
+[agenda userquery]2019/10/21 21:40:25 UserQuery zz query all users infomation!
+[agenda logout]2019/10/23 10:14:00 zz log out
+[agenda login]2019/10/23 10:14:17 Login zz successfully!
+[agenda userquery]2019/10/23 10:14:19 UserQuery zz query all users infomation!
+[agenda remove user]2019/10/23 10:22:20 zz clear account
+[agenda login]2019/10/23 10:22:30 Login zz no such an user!
+[agenda register]2019/10/23 10:22:47 Register zz successfully!
+[agenda login]2019/10/23 10:22:50 Login zz successfully!
+[agenda remove user]2019/10/23 10:23:22 zz clear account
+[agenda register]2019/10/23 10:40:10 Register zz successfully!
+[agenda register]2019/10/23 10:40:39 Register aa successfully!
+[agenda register]2019/10/23 10:40:55 Register bb successfully!
+[agenda login]2019/10/23 10:44:58 Login zz successfully!
+[agenda userquery]2019/10/23 10:48:39 UserQuery zz query all users infomation!
+[agenda logout]2019/10/23 10:50:31 zz log out
+[agenda login]2019/10/23 10:58:59 Login zz successfully!
+[agenda remove user]2019/10/23 10:59:01 zz clear account
